@@ -1,0 +1,29 @@
+/* Spotlights */
+.spotlights > section > .image:before {
+	opacity: 0 !important;
+}
+
+.spotlights > section > .content > .inner {
+	-webkit-transform: none !important;
+	transform: none !important;
+	opacity: 1 !important;
+}
+
+/* Wrapper */
+.wrapper > .inner {
+	opacity: 1 !important;
+	-webkit-transform: none !important;
+	transform: none !important;
+}
+
+/* Sidebar */
+#sidebar > .inner {
+	opacity: 1 !important;
+}
+
+#sidebar nav > ul > li {
+	-webkit-transform: none !important;
+	transform: none !important;
+	opacity: 1 !important;
+}
+/*# sourceMappingURL=noscript.css.map */
