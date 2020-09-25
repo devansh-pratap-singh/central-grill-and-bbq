@@ -13,6 +13,8 @@ Hey everyone!!! Welcome to my site. This is the first full fledged site that I h
 [<img align="left" title="Git" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][github]
 [<img align="left" title="GitHub" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github]
 
+<br />
+
 ### Connect with me:
 
 [<img align="left" title="Devansh Pratap Singh" alt="devanshpratapsingh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
