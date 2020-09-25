@@ -3944,18 +3944,20 @@ body.is-preload #sidebar nav ul li {
 	background-size: 100% 100%;
 }
 
-#intro p {
+#intro h2 {
+	color: rgba(255, 255, 255, 0.35);
 	font-size: 1.25em;
 }
 
 @media screen and (max-width: 980px) {
-	#intro p br {
+	#intro h2 br {
 		display: none;
 	}
 }
 
 @media screen and (max-width: 736px) {
-	#intro p {
+	#intro h2 {
+		color: rgba(255, 255, 255, 0.35);
 		font-size: 1em;
 	}
 }
