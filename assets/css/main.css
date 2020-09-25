@@ -3968,6 +3968,12 @@ body.is-preload #sidebar nav ul li {
 
 /* Calendaer */
 
+iframe {
+	border: none;
+	overflow: hidden;
+	margin: 0;
+}
+
 .calendar {
 	margin: 60px;
 }
